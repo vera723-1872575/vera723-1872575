@@ -1,0 +1,74 @@
+#Header{
+    text-align:center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    background-color: #8e41d5
+    font-size: 60px;
+    font-family: "Passion One"; 
+    color: #FFBC00;
+    font-weight: bold;
+
+}
+
+
+#LeftNav 
+ul{
+    list-style-type: none;
+    padding-left:0px; 
+    float: left;
+    text-align:center;
+    width: 400px;
+    padding-bottom: 8px;
+    border:solid 8px black;
+    background-color: #8e41d5
+
+    #leftNav img{
+
+    }
+
+    
+}
+
+#Content{
+    text-align:center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    border:solid 8px black;
+    background-color: #8e41d5
+    font-family: "arial";
+    color: white; 
+    
+}
+#Footer
+ul{
+    list-style-type: none;
+    padding-left:0px;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    background-color: #8e41d5
+    
+}
+
+Body{
+    background-color: black;
+}
+a{
+    color: white; 
+    font-weight: bold;
+    font-size:40px;
+}
+
+#bow{
+    color: #ffbc00
+    font-size:20px;
+    font-weight: bold;
+}
